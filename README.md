@@ -1,8 +1,8 @@
 # Mandelbrot
-This is a project involved with Maths where I re-create the Mandelbrot set with help of complex numbers and C# knowledge.
+This is a project involved with Maths where I re-create the Mandelbrot set with help of complex numbers and C#
 
 ## What to know
-The whole project is built in Swedish, but you might understand the code if you know the basics of the Mandelbrot set :)<br><br>This project does *not* zoom in the mandelbrot set ([like those in youtube](https://www.youtube.com/watch?v=PD2XgQOyCCk&)). It's just a visual picture of the first set of the mandelbrot.
+The whole project is built in Swedish, but you might understand the code if you know the basics of the Mandelbrot set :)<br><br>This project does *not* zoom in the mandelbrot set ([like those in youtube](https://www.youtube.com/watch?v=PD2XgQOyCCk&)). It's just a visual picture of the first set of the mandelbrot 😊
 
 ## Built With
 
