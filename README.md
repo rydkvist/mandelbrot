@@ -1,7 +1,7 @@
 # Mandelbrot set
 A math programming project where I re-create the pattern of a Mandelbrot set using the knowledge I had in discrete mathematics and complex numbers.
 
-<img src="Mandelbrot.jpeg" width="100%" height="320px" />
+<img src="Mandelbrot.jpeg" width="100%" height="100%" />
 
 ## What to know
 The project contains Swedish comments describing what is going on through the code, it can be hard to understand what is going on without the knowledge of how the Mandelbrot set works. 
