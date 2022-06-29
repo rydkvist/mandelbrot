@@ -1,13 +1,21 @@
-# Mandelbrot
-This is a project involved with Maths where I re-create the Mandelbrot set with help of complex numbers and C#
+# Mandelbrot set
+A math programming project where I re-create the pattern of a Mandelbrot set using the knowledge I had in discrete mathematics and complex numbers.
+
+<img src="Mandelbrot.jpeg" />
 
 ## What to know
-The whole project is built in Swedish, but you might understand the code if you know the basics of the Mandelbrot set :)<br><br>This project does *not* zoom in the mandelbrot set ([like those in youtube](https://www.youtube.com/watch?v=PD2XgQOyCCk&)). It's just a visual picture of the first set of the mandelbrot 😊
+The project contains Swedish comments describing what is going on through the code, it can be hard to understand what is going on without the knowledge of how the Mandelbrot set works. 
+
+Unfortunately, this project shows only the first set of the Mandelbrot set, it does not zoom infinitely into the set similar to [those on youtube](https://www.youtube.com/watch?v=9M7dTmvJxwA&ab_channel=KarimESSAIFI).
 
 ## Built With
 
-* [Visual Studio](https://visualstudio.microsoft.com/) - IDE used to develop the program
+- [Visual Studio](https://visualstudio.microsoft.com/) - IDE used to develop the program
+- [C#, Windows Forms .NET](https://docs.microsoft.com/en-us/dotnet/csharp/) – Programming language
 
-## Authors
+## Author
 
-* **Niklas Rydkvist** - *Mandelbrot* - [Nojze](https://github.com/Nojze)
+Niklas Rydkvist: [niklas@rydkvist.com](mailto:niklas@rydkvist.com)
+
+## License
+The Mandelbrot set is available under the [MIT license](https://github.com/Nojze/mandelbrot-set/blob/main/LICENSE).
