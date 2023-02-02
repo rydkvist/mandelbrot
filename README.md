@@ -1,4 +1,4 @@
-# Mandelbrot set
+# Fractal Wonders: A Mandelbrot Set Exploration
 Dive into the world of mathematics with this programming project that re-creates the stunning patterns of the Mandelbrot set. Using my knowledge of discrete mathematics and complex numbers, I brought this intricate fractal to life with the help of C# and Windows Forms .NET. A true testament to the beauty and power of mathematics.
 
 <img src="Mandelbrot.jpeg" alt="Representation of the Mandelbrot set pattern" width="100%" height="100%" />
